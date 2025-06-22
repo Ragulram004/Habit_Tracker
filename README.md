@@ -9,7 +9,7 @@ A full-stack health tracking application where users can:
 
 ---
 
-## YT [Video demo](https://youtu.be/T5UKa8ZUhCA)
+#### YT [Video demo](https://youtu.be/T5UKa8ZUhCA)
 
 
 ## 📁 Folder Structure
